@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulMalik786687
 - 👀 I’m interested in ...learning and moving forward 
-- 🌱 I’m currently learning ...web development 
-- 💞️ I’m looking to collaborate on ...anything 
+- 🌱 I’m currently learning ...IT programming in college 🎓 
+- 💞️ I’m looking to collaborate on ...anything programming. 
 - 📫 How to reach me ...abdulmaliklamprecht89@gmail.com
 
 <!---
